@@ -1,0 +1,22 @@
+{
+  "author": "AvianFlu <charlie@charlieistheman.com>",
+  "name": "kohai-logger",
+  "description": "a logger for kohai",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AvianFlu/kohai-logger.git"
+  },
+  "bin": {
+     "kohai-logger": "./bin/logger"
+   },
+  "engines": {
+    "node": ">= v0.4.7"
+  },
+  "dependencies": {
+    "hook.io": "0.7.x",
+    "winston": "0.5.x",
+    "winston-mongodb": "0.3.x"
+  },
+  "devDependencies": {}
+}

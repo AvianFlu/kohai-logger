@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var Logger    = require('../lib/logger').Logger;
+
+var logger = new Logger({ 
+  name: 'the-logger' 
+});
+
+logger.start();
