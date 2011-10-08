@@ -2,7 +2,7 @@
   "author": "AvianFlu <charlie@charlieistheman.com>",
   "name": "kohai-logger",
   "description": "a logger for kohai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/AvianFlu/kohai-logger.git"
